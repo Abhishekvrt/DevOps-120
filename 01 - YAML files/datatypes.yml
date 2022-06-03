@@ -1,0 +1,15 @@
+# String variables
+myself: Abhishek 
+fruit : mango
+Job : Devops Engineer
+
+bioJob: | 
+  hey my name is Abhishek
+  and I'm a Devops Engineer
+
+# write a single line into multiple lines
+bar: >
+  this is not a normal string it
+  spans more than
+  one line
+  see?

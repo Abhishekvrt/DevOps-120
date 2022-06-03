@@ -1,0 +1,62 @@
+# yaml works in Key and Pair bond
+'sunday' : "first day of week"
+"monday" : "Second day of week"
+"tuesday" : "third day of week"
+"wednesday" : "fourth day of week"
+"thursday" : "fifth day of week"
+"saturday" : "sixth day of week"
+
+---
+
+## List
+- Apple
+- apple note - yaml is case sensitive
+- Orange
+- mango
+
+---
+
+## Block style
+cities:
+    - new delhi
+    - Gurugram
+    - Varanasi
+    - meerut
+---
+
+---
+ doe: "a deer, a female deer"
+ ray: "a drop of golden sun"
+ pi: 3.14159
+ xmas: true
+ french-hens: 3
+ calling-birds:
+   - huey
+   - dewey
+   - louie
+   - fred
+ xmas-fifth-day:
+   calling-birds: four
+   french-hens: 3
+   golden-rings: 5
+   partridges:
+     count: 1
+     location: "a pear tree"
+   turtle-doves: two
+
+---
+ 
+bar: >
+  this is not a normal string it
+  spans more than
+  one line
+  see?
+
+# Nulls
+# You enter nulls with a tilde or the unquoted null string literal.
+
+---
+foo: ~
+bar: null
+...
+

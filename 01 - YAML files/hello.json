@@ -1,0 +1,24 @@
+{
+  "sunday": "first day of week",
+  "monday": "Second day of week",
+  "tuesday": "third day of week",
+  "wednesday": "fourth day of week",
+  "thursday": "fifth day of week",
+  "saturday": "sixth day of week"
+}
+
+[
+  "Apple",
+  "apple note - yaml is case sensitive",
+  "Orange",
+  "mango"
+]
+
+{
+  "cities": [
+    "new delhi",
+    "Gurugram",
+    "Varanasi",
+    "meerut"
+  ]
+}
