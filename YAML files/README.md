@@ -28,25 +28,6 @@ when a Obj Serialized, it deconstruct into three parts
 6. use various tools available in YAML
 7. passing is easy   
 
----
-The file starts with three dashes. These dashes indicate the start of a new YAML document. YAML supports multiple documents, and compliant parsers will recognize each set of dashes as the beginning of a new one.
-
-yaml works in Key and Pair bond
-'sunday' : "first day of week"
-"monday" : "Second day of week"
- 
-## List
-- Apple
-- apple note - yaml is case sensitive
-- Orange
-- mango
-
-## Block style
-cities:
-    - new delhi
-    - Gurugram
-    - Varanasi
-    - meerut
 YAml have indentation problem like Python
 > if you don't want indentation problem than put inputs inside [] or {}
 
