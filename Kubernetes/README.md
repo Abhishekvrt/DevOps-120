@@ -1,0 +1,33 @@
+Docker is a container platform that allows you to build, test and deploy applications quickly. A developer defines all the applications and it’s dependencies in a Dockerfile which is then used to build Docker images that defines a Docker container. Doing this ensures that your application will run in any environment.
+
+### Contents to read further -
+- Why do we use Docker
+- Configuration management
+- Managing containers
+- Monolithic applications
+- Microservice
+- Orchestrators
+- Introduction to Kubernetes
+- History of Kubernetes
+- Docker vs Kubernetes
+- Terminologies
+- Cluster
+- Pod
+- Control Plane
+- Architecture of Kubernetes
+- Kubernetes DNS
+- Installation
+- Running Minikube
+- Kubernetes dashboard
+- Minikube commands
+- kubectl commands
+- Useful tools
+- Lens
+- Monokle
+- Kubescape
+- Datree
+- Teleport
+- Civo
+- Hands-on demo
+- CNCF landscape
+- Outro
